@@ -1,0 +1,6 @@
+{
+	"tab_size": 3,
+	"fold_buttons": true,
+	"rulers": [100],
+	"indent_guide_options": ["draw_active"],
+}
