@@ -1,13 +1,12 @@
 {
-	"rulers": [100],
+	"rulers": [],
 	"tab_size": 3,
 	"translate_tabs_to_spaces": false,
-	"font_size": 13,
+	"font_size": 11,
 	"highlight_line": false,
 	"spell_check": true,
 	"line_numbers": false,
 	"gutter": false,
-	"margin": 15,
-	"line_padding_top": 3,
+	"margin": 5,
 	"word_wrap": true
 }

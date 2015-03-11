@@ -31,6 +31,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"LaTeXing",
 		"Vintage"
 	],
 	"margin": 1,
