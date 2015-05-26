@@ -1,0 +1,9 @@
+{
+	"highlight_line": false,
+	"spell_check": true,
+	"rulers": [100],
+	"word_wrap": true,
+	"wrap_width": 100,
+	"font_size": 11,
+	"line_padding_top": 3
+}

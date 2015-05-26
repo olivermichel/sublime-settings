@@ -1,0 +1,31 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[			
+			{
+				"caption": "Preview",
+				"id": "side-bar-files-open-with-preview",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "Preview.app",
+					"extensions": "pdf|png|jpg|jpeg|bmp",
+					"args": []
+				},
+				"open_automatically": false
+			},
+			{
+				"caption": "OmniGraffle",
+				"id": "side-bar-files-open-with-preview",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "OmniGraffle.app",
+					"extensions": "graffle",
+					"args": []
+				},
+				"open_automatically": false
+			}
+		]
+	}
+]

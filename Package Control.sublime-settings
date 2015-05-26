@@ -12,6 +12,8 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
+		"SublimeLinter-rubocop",
+		"Theme - Afterglow",
 		"Theme - Soda"
 	]
 }
